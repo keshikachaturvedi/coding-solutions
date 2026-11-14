@@ -66,7 +66,7 @@ There are lines of input, and each line contains a single integer.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-31T16:48:18.777Z  
+**Submitted:** 2026-10-31T16:50:10.726Z  
 
 ```java
 import java.util.Scanner;
